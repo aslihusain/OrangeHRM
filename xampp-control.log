@@ -1,0 +1,828 @@
+16:09:03  [main] 	Initializing Control Panel
+16:09:03  [main] 	Windows Version:  Enterprise  64-bit
+16:09:03  [main] 	XAMPP Version: 7.1.7
+16:09:03  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+16:09:03  [main] 	You are not running with administrator rights! This will work for
+16:09:03  [main] 	most application stuff but whenever you do something with services
+16:09:03  [main] 	there will be a security dialogue or things will break! So think 
+16:09:03  [main] 	about running this application with administrator rights!
+16:09:03  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+16:09:03  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+16:09:03  [main] 	Checking for prerequisites
+16:09:11  [main] 	All prerequisites found
+16:09:11  [main] 	Initializing Modules
+16:09:11  [Apache] 	Problem detected!
+16:09:11  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+16:09:11  [Apache] 	Apache WILL NOT start without the configured ports free!
+16:09:11  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+16:09:11  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+16:09:11  [main] 	The FileZilla module is disabled
+16:09:11  [main] 	The Mercury module is disabled
+16:09:11  [main] 	The Tomcat module is disabled
+16:09:11  [main] 	Starting Check-Timer
+16:09:11  [main] 	Control Panel Ready
+16:14:06  [Apache] 	Problem detected!
+16:14:06  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+16:14:06  [Apache] 	Apache WILL NOT start without the configured ports free!
+16:14:06  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+16:14:06  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+16:14:06  [Apache] 	Attempting to start Apache service...
+16:14:07  [mysql] 	Attempting to start MySQL app...
+16:14:08  [mysql] 	Status change detected: running
+16:14:09  [Apache] 	Status change detected: running
+18:23:14  [main] 	Deinitializing Modules
+18:23:14  [main] 	Deinitializing Control Panel
+
+09:46:36  [main] 	Initializing Control Panel
+09:46:36  [main] 	Windows Version:  Enterprise  64-bit
+09:46:36  [main] 	XAMPP Version: 7.1.7
+09:46:36  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+09:46:36  [main] 	You are not running with administrator rights! This will work for
+09:46:36  [main] 	most application stuff but whenever you do something with services
+09:46:36  [main] 	there will be a security dialogue or things will break! So think 
+09:46:36  [main] 	about running this application with administrator rights!
+09:46:36  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+09:46:36  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+09:46:36  [main] 	Checking for prerequisites
+09:46:36  [main] 	All prerequisites found
+09:46:36  [main] 	Initializing Modules
+09:46:36  [Apache] 	Problem detected!
+09:46:36  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+09:46:36  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:46:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:46:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:46:36  [Apache] 	XAMPP Apache Service is already running on port 443
+09:46:36  [main] 	The FileZilla module is disabled
+09:46:36  [main] 	The Mercury module is disabled
+09:46:36  [main] 	The Tomcat module is disabled
+09:46:36  [main] 	Starting Check-Timer
+09:46:36  [main] 	Control Panel Ready
+09:46:39  [mysql] 	Attempting to start MySQL app...
+09:46:39  [mysql] 	Status change detected: running
+10:11:34  [main] 	Deinitializing Modules
+10:11:34  [main] 	Deinitializing Control Panel
+
+10:25:40  [main] 	Initializing Control Panel
+10:25:40  [main] 	Windows Version:  Enterprise  64-bit
+10:25:40  [main] 	XAMPP Version: 7.1.7
+10:25:40  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:25:40  [main] 	You are not running with administrator rights! This will work for
+10:25:40  [main] 	most application stuff but whenever you do something with services
+10:25:40  [main] 	there will be a security dialogue or things will break! So think 
+10:25:40  [main] 	about running this application with administrator rights!
+10:25:40  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:25:40  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:25:40  [main] 	Checking for prerequisites
+10:25:40  [main] 	All prerequisites found
+10:25:40  [main] 	Initializing Modules
+10:25:40  [Apache] 	Problem detected!
+10:25:40  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:25:40  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:25:40  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:25:40  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:25:40  [Apache] 	XAMPP Apache Service is already running on port 443
+10:25:40  [main] 	The FileZilla module is disabled
+10:25:40  [main] 	The Mercury module is disabled
+10:25:40  [main] 	The Tomcat module is disabled
+10:25:40  [main] 	Starting Check-Timer
+10:25:40  [main] 	Control Panel Ready
+10:25:42  [mysql] 	Attempting to start MySQL app...
+10:25:43  [mysql] 	Status change detected: running
+18:42:21  [main] 	Deinitializing Modules
+18:42:21  [main] 	Deinitializing Control Panel
+
+10:15:08  [main] 	Initializing Control Panel
+10:15:08  [main] 	Windows Version:  Enterprise  64-bit
+10:15:08  [main] 	XAMPP Version: 7.1.7
+10:15:08  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:15:08  [main] 	You are not running with administrator rights! This will work for
+10:15:08  [main] 	most application stuff but whenever you do something with services
+10:15:08  [main] 	there will be a security dialogue or things will break! So think 
+10:15:08  [main] 	about running this application with administrator rights!
+10:15:08  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:15:08  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:15:08  [main] 	Checking for prerequisites
+10:15:08  [main] 	All prerequisites found
+10:15:08  [main] 	Initializing Modules
+10:15:08  [Apache] 	Problem detected!
+10:15:08  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:15:08  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:15:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:15:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:15:08  [Apache] 	XAMPP Apache Service is already running on port 443
+10:15:08  [main] 	The FileZilla module is disabled
+10:15:08  [main] 	The Mercury module is disabled
+10:15:08  [main] 	The Tomcat module is disabled
+10:15:08  [main] 	Starting Check-Timer
+10:15:08  [main] 	Control Panel Ready
+10:15:11  [mysql] 	Attempting to start MySQL app...
+10:15:11  [mysql] 	Status change detected: running
+10:15:18  [mysql] 	Status change detected: stopped
+10:15:18  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:15:18  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:15:18  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:15:18  [mysql] 	Press the Logs button to view error logs and check
+10:15:18  [mysql] 	the Windows Event Viewer for more clues
+10:15:18  [mysql] 	If you need more help, copy and post this
+10:15:18  [mysql] 	entire log window on the forums
+10:16:02  [mysql] 	Attempting to start MySQL app...
+10:16:02  [mysql] 	Status change detected: running
+10:16:05  [mysql] 	Status change detected: stopped
+10:16:05  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:16:05  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:16:05  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:16:05  [mysql] 	Press the Logs button to view error logs and check
+10:16:05  [mysql] 	the Windows Event Viewer for more clues
+10:16:05  [mysql] 	If you need more help, copy and post this
+10:16:05  [mysql] 	entire log window on the forums
+10:17:18  [mysql] 	Attempting to start MySQL app...
+10:17:19  [mysql] 	Status change detected: running
+10:17:22  [mysql] 	Status change detected: stopped
+10:17:22  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:17:22  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:17:22  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:17:22  [mysql] 	Press the Logs button to view error logs and check
+10:17:22  [mysql] 	the Windows Event Viewer for more clues
+10:17:22  [mysql] 	If you need more help, copy and post this
+10:17:22  [mysql] 	entire log window on the forums
+10:18:49  [main] 	Deinitializing Modules
+10:18:49  [main] 	Deinitializing Control Panel
+
+10:18:52  [main] 	Initializing Control Panel
+10:18:52  [main] 	Windows Version:  Enterprise  64-bit
+10:18:52  [main] 	XAMPP Version: 7.1.7
+10:18:52  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:18:52  [main] 	You are not running with administrator rights! This will work for
+10:18:52  [main] 	most application stuff but whenever you do something with services
+10:18:52  [main] 	there will be a security dialogue or things will break! So think 
+10:18:52  [main] 	about running this application with administrator rights!
+10:18:52  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:18:52  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:18:52  [main] 	Checking for prerequisites
+10:18:52  [main] 	All prerequisites found
+10:18:52  [main] 	Initializing Modules
+10:18:52  [Apache] 	Problem detected!
+10:18:52  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:18:52  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:18:52  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:18:52  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:18:52  [Apache] 	XAMPP Apache Service is already running on port 443
+10:18:53  [mysql] 	Problem detected!
+10:18:53  [mysql] 	Port 3306 in use by "C:\xampp\mysql\bin\mysqld.exe"!
+10:18:53  [mysql] 	MySQL WILL NOT start without the configured ports free!
+10:18:53  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+10:18:53  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+10:18:53  [main] 	The FileZilla module is disabled
+10:18:53  [main] 	The Mercury module is disabled
+10:18:53  [main] 	The Tomcat module is disabled
+10:18:53  [main] 	Starting Check-Timer
+10:18:53  [main] 	Control Panel Ready
+10:18:54  [mysql] 	Problem detected!
+10:18:54  [mysql] 	Port 3306 in use by "C:\xampp\mysql\bin\mysqld.exe"!
+10:18:54  [mysql] 	MySQL WILL NOT start without the configured ports free!
+10:18:54  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+10:18:54  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+10:18:54  [mysql] 	Attempting to start MySQL app...
+10:18:55  [mysql] 	Status change detected: running
+10:18:58  [mysql] 	Status change detected: stopped
+10:18:58  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:18:58  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:18:58  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:18:58  [mysql] 	Press the Logs button to view error logs and check
+10:18:58  [mysql] 	the Windows Event Viewer for more clues
+10:18:58  [mysql] 	If you need more help, copy and post this
+10:18:58  [mysql] 	entire log window on the forums
+10:19:12  [main] 	Deinitializing Modules
+10:19:12  [main] 	Deinitializing Control Panel
+
+17:33:14  [main] 	Initializing Control Panel
+17:33:14  [main] 	Windows Version:  Enterprise  64-bit
+17:33:14  [main] 	XAMPP Version: 7.1.7
+17:33:14  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+17:33:14  [main] 	You are not running with administrator rights! This will work for
+17:33:14  [main] 	most application stuff but whenever you do something with services
+17:33:14  [main] 	there will be a security dialogue or things will break! So think 
+17:33:14  [main] 	about running this application with administrator rights!
+17:33:14  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+17:33:14  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+17:33:14  [main] 	Checking for prerequisites
+17:33:14  [main] 	All prerequisites found
+17:33:14  [main] 	Initializing Modules
+17:33:14  [Apache] 	Problem detected!
+17:33:14  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+17:33:14  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:33:14  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:33:14  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:33:14  [Apache] 	XAMPP Apache Service is already running on port 443
+17:33:14  [main] 	The FileZilla module is disabled
+17:33:14  [main] 	The Mercury module is disabled
+17:33:14  [main] 	The Tomcat module is disabled
+17:33:14  [main] 	Starting Check-Timer
+17:33:14  [main] 	Control Panel Ready
+17:33:16  [mysql] 	Attempting to start MySQL app...
+17:33:17  [mysql] 	Status change detected: running
+18:21:08  [main] 	Deinitializing Modules
+18:21:08  [main] 	Deinitializing Control Panel
+
+10:16:07  [main] 	Initializing Control Panel
+10:16:07  [main] 	Windows Version:  Enterprise  64-bit
+10:16:07  [main] 	XAMPP Version: 7.1.7
+10:16:07  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:16:07  [main] 	You are not running with administrator rights! This will work for
+10:16:07  [main] 	most application stuff but whenever you do something with services
+10:16:07  [main] 	there will be a security dialogue or things will break! So think 
+10:16:07  [main] 	about running this application with administrator rights!
+10:16:07  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:16:07  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:16:07  [main] 	Checking for prerequisites
+10:16:08  [main] 	All prerequisites found
+10:16:08  [main] 	Initializing Modules
+10:16:08  [Apache] 	Problem detected!
+10:16:08  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:16:08  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:16:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:16:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:16:08  [Apache] 	XAMPP Apache Service is already running on port 443
+10:16:08  [main] 	The FileZilla module is disabled
+10:16:08  [main] 	The Mercury module is disabled
+10:16:08  [main] 	The Tomcat module is disabled
+10:16:08  [main] 	Starting Check-Timer
+10:16:08  [main] 	Control Panel Ready
+10:16:11  [mysql] 	Attempting to start MySQL app...
+10:16:11  [mysql] 	Status change detected: running
+18:20:31  [main] 	Deinitializing Modules
+18:20:31  [main] 	Deinitializing Control Panel
+
+10:33:38  [main] 	Initializing Control Panel
+10:33:38  [main] 	Windows Version:  Enterprise  64-bit
+10:33:38  [main] 	XAMPP Version: 7.1.7
+10:33:38  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:33:38  [main] 	You are not running with administrator rights! This will work for
+10:33:38  [main] 	most application stuff but whenever you do something with services
+10:33:38  [main] 	there will be a security dialogue or things will break! So think 
+10:33:38  [main] 	about running this application with administrator rights!
+10:33:38  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:33:38  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:33:38  [main] 	Checking for prerequisites
+10:33:39  [main] 	All prerequisites found
+10:33:39  [main] 	Initializing Modules
+10:33:39  [Apache] 	Problem detected!
+10:33:39  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:33:39  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:33:39  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:33:39  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:33:39  [Apache] 	XAMPP Apache Service is already running on port 443
+10:33:39  [main] 	The FileZilla module is disabled
+10:33:39  [main] 	The Mercury module is disabled
+10:33:39  [main] 	The Tomcat module is disabled
+10:33:39  [main] 	Starting Check-Timer
+10:33:39  [main] 	Control Panel Ready
+10:33:46  [mysql] 	Attempting to start MySQL app...
+10:33:47  [mysql] 	Status change detected: running
+11:41:37  [main] 	Deinitializing Modules
+11:41:37  [main] 	Deinitializing Control Panel
+
+14:39:06  [main] 	Initializing Control Panel
+14:39:06  [main] 	Windows Version:  Enterprise  64-bit
+14:39:06  [main] 	XAMPP Version: 7.1.7
+14:39:06  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+14:39:06  [main] 	You are not running with administrator rights! This will work for
+14:39:06  [main] 	most application stuff but whenever you do something with services
+14:39:06  [main] 	there will be a security dialogue or things will break! So think 
+14:39:06  [main] 	about running this application with administrator rights!
+14:39:06  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+14:39:06  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+14:39:06  [main] 	Checking for prerequisites
+14:39:06  [main] 	All prerequisites found
+14:39:06  [main] 	Initializing Modules
+14:39:06  [Apache] 	Problem detected!
+14:39:06  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+14:39:06  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:39:06  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:39:06  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:39:06  [Apache] 	XAMPP Apache Service is already running on port 443
+14:39:06  [main] 	The FileZilla module is disabled
+14:39:06  [main] 	The Mercury module is disabled
+14:39:06  [main] 	The Tomcat module is disabled
+14:39:06  [main] 	Starting Check-Timer
+14:39:06  [main] 	Control Panel Ready
+14:39:11  [mysql] 	Attempting to start MySQL app...
+14:39:11  [mysql] 	Status change detected: running
+18:16:17  [main] 	Deinitializing Modules
+18:16:17  [main] 	Deinitializing Control Panel
+
+10:16:24  [main] 	Initializing Control Panel
+10:16:24  [main] 	Windows Version:  Enterprise  64-bit
+10:16:24  [main] 	XAMPP Version: 7.1.7
+10:16:24  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:16:24  [main] 	You are not running with administrator rights! This will work for
+10:16:24  [main] 	most application stuff but whenever you do something with services
+10:16:24  [main] 	there will be a security dialogue or things will break! So think 
+10:16:24  [main] 	about running this application with administrator rights!
+10:16:24  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:16:24  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:16:24  [main] 	Checking for prerequisites
+10:16:25  [main] 	All prerequisites found
+10:16:25  [main] 	Initializing Modules
+10:16:25  [Apache] 	Problem detected!
+10:16:25  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:16:25  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:16:25  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:16:25  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:16:25  [Apache] 	XAMPP Apache Service is already running on port 443
+10:16:25  [main] 	The FileZilla module is disabled
+10:16:25  [main] 	The Mercury module is disabled
+10:16:25  [main] 	The Tomcat module is disabled
+10:16:25  [main] 	Starting Check-Timer
+10:16:25  [main] 	Control Panel Ready
+10:16:27  [mysql] 	Attempting to start MySQL app...
+10:16:28  [mysql] 	Status change detected: running
+18:27:29  [main] 	Deinitializing Modules
+18:27:29  [main] 	Deinitializing Control Panel
+
+09:53:22  [main] 	Initializing Control Panel
+09:53:22  [main] 	Windows Version:  Enterprise  64-bit
+09:53:22  [main] 	XAMPP Version: 7.1.7
+09:53:22  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+09:53:22  [main] 	You are not running with administrator rights! This will work for
+09:53:22  [main] 	most application stuff but whenever you do something with services
+09:53:22  [main] 	there will be a security dialogue or things will break! So think 
+09:53:22  [main] 	about running this application with administrator rights!
+09:53:22  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+09:53:22  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+09:53:22  [main] 	Checking for prerequisites
+09:53:23  [main] 	All prerequisites found
+09:53:23  [main] 	Initializing Modules
+09:53:23  [Apache] 	Problem detected!
+09:53:23  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+09:53:23  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:53:23  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:53:23  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:53:23  [Apache] 	XAMPP Apache Service is already running on port 443
+09:53:23  [main] 	The FileZilla module is disabled
+09:53:23  [main] 	The Mercury module is disabled
+09:53:23  [main] 	The Tomcat module is disabled
+09:53:23  [main] 	Starting Check-Timer
+09:53:23  [main] 	Control Panel Ready
+09:53:26  [mysql] 	Attempting to start MySQL app...
+09:53:27  [mysql] 	Status change detected: running
+16:48:06  [mysql] 	Status change detected: stopped
+16:48:06  [mysql] 	Error: MySQL shutdown unexpectedly.
+16:48:06  [mysql] 	This may be due to a blocked port, missing dependencies, 
+16:48:06  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+16:48:06  [mysql] 	Press the Logs button to view error logs and check
+16:48:06  [mysql] 	the Windows Event Viewer for more clues
+16:48:06  [mysql] 	If you need more help, copy and post this
+16:48:06  [mysql] 	entire log window on the forums
+16:48:06  [main] 	Deinitializing Modules
+16:48:06  [main] 	Deinitializing Control Panel
+
+12:32:02  [main] 	Initializing Control Panel
+12:32:02  [main] 	Windows Version:  Enterprise  64-bit
+12:32:02  [main] 	XAMPP Version: 7.1.7
+12:32:02  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+12:32:02  [main] 	You are not running with administrator rights! This will work for
+12:32:02  [main] 	most application stuff but whenever you do something with services
+12:32:02  [main] 	there will be a security dialogue or things will break! So think 
+12:32:02  [main] 	about running this application with administrator rights!
+12:32:02  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+12:32:02  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+12:32:02  [main] 	Checking for prerequisites
+12:32:03  [main] 	All prerequisites found
+12:32:03  [main] 	Initializing Modules
+12:32:03  [Apache] 	Problem detected!
+12:32:03  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+12:32:03  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:32:03  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:32:03  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:32:03  [Apache] 	XAMPP Apache Service is already running on port 443
+12:32:03  [main] 	The FileZilla module is disabled
+12:32:03  [main] 	The Mercury module is disabled
+12:32:03  [main] 	The Tomcat module is disabled
+12:32:03  [main] 	Starting Check-Timer
+12:32:03  [main] 	Control Panel Ready
+12:32:06  [mysql] 	Attempting to start MySQL app...
+12:32:07  [mysql] 	Status change detected: running
+18:16:40  [mysql] 	Attempting to stop MySQL app...
+18:16:40  [Apache] 	Attempting to stop Apache service...
+18:16:41  [mysql] 	Status change detected: stopped
+18:16:45  [Apache] 	Status change detected: stopped
+18:17:01  [main] 	Deinitializing Modules
+18:17:01  [main] 	Deinitializing Control Panel
+
+10:38:54  [main] 	Initializing Control Panel
+10:38:54  [main] 	Windows Version:  Enterprise  64-bit
+10:38:54  [main] 	XAMPP Version: 7.1.7
+10:38:54  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:38:54  [main] 	You are not running with administrator rights! This will work for
+10:38:54  [main] 	most application stuff but whenever you do something with services
+10:38:54  [main] 	there will be a security dialogue or things will break! So think 
+10:38:54  [main] 	about running this application with administrator rights!
+10:38:54  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:38:54  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:38:54  [main] 	Checking for prerequisites
+10:38:55  [main] 	All prerequisites found
+10:38:55  [main] 	Initializing Modules
+10:38:55  [Apache] 	Problem detected!
+10:38:55  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:38:55  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:38:55  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:38:55  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:38:55  [main] 	The FileZilla module is disabled
+10:38:55  [main] 	The Mercury module is disabled
+10:38:55  [main] 	The Tomcat module is disabled
+10:38:55  [main] 	Starting Check-Timer
+10:38:55  [main] 	Control Panel Ready
+10:38:57  [mysql] 	Attempting to start MySQL app...
+10:38:57  [mysql] 	Status change detected: running
+10:38:58  [Apache] 	Problem detected!
+10:38:58  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:38:58  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:38:58  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:38:58  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:38:58  [Apache] 	Attempting to start Apache service...
+10:39:01  [Apache] 	Problem detected!
+10:39:01  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:39:01  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:39:02  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:39:02  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:39:02  [Apache] 	Attempting to start Apache service...
+10:39:02  [Apache] 	Status change detected: running
+18:14:51  [main] 	Deinitializing Modules
+18:14:51  [main] 	Deinitializing Control Panel
+
+10:25:12  [main] 	Initializing Control Panel
+10:25:12  [main] 	Windows Version:  Enterprise  64-bit
+10:25:12  [main] 	XAMPP Version: 7.1.7
+10:25:12  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:25:12  [main] 	You are not running with administrator rights! This will work for
+10:25:12  [main] 	most application stuff but whenever you do something with services
+10:25:12  [main] 	there will be a security dialogue or things will break! So think 
+10:25:12  [main] 	about running this application with administrator rights!
+10:25:12  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:25:12  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:25:12  [main] 	Checking for prerequisites
+10:25:12  [main] 	All prerequisites found
+10:25:12  [main] 	Initializing Modules
+10:25:12  [Apache] 	Problem detected!
+10:25:12  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:25:12  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:25:12  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:25:12  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:25:12  [Apache] 	XAMPP Apache Service is already running on port 443
+10:25:12  [main] 	The FileZilla module is disabled
+10:25:12  [main] 	The Mercury module is disabled
+10:25:12  [main] 	The Tomcat module is disabled
+10:25:12  [main] 	Starting Check-Timer
+10:25:12  [main] 	Control Panel Ready
+10:25:42  [mysql] 	Attempting to start MySQL app...
+10:25:43  [mysql] 	Status change detected: running
+17:48:51  [main] 	Deinitializing Modules
+17:48:51  [main] 	Deinitializing Control Panel
+
+10:23:58  [main] 	Initializing Control Panel
+10:23:58  [main] 	Windows Version:  Enterprise  64-bit
+10:23:58  [main] 	XAMPP Version: 7.1.7
+10:23:58  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:23:58  [main] 	You are not running with administrator rights! This will work for
+10:23:58  [main] 	most application stuff but whenever you do something with services
+10:23:58  [main] 	there will be a security dialogue or things will break! So think 
+10:23:58  [main] 	about running this application with administrator rights!
+10:23:58  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:23:58  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:23:58  [main] 	Checking for prerequisites
+10:23:58  [main] 	All prerequisites found
+10:23:58  [main] 	Initializing Modules
+10:23:58  [Apache] 	Problem detected!
+10:23:58  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:23:58  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:23:58  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:23:58  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:23:58  [Apache] 	XAMPP Apache Service is already running on port 443
+10:23:58  [main] 	The FileZilla module is disabled
+10:23:58  [main] 	The Mercury module is disabled
+10:23:58  [main] 	The Tomcat module is disabled
+10:23:58  [main] 	Starting Check-Timer
+10:23:58  [main] 	Control Panel Ready
+10:24:05  [mysql] 	Attempting to start MySQL app...
+10:24:06  [mysql] 	Status change detected: running
+10:22:09  [main] 	Deinitializing Modules
+10:22:09  [main] 	Deinitializing Control Panel
+
+10:50:41  [main] 	Initializing Control Panel
+10:50:41  [main] 	Windows Version:  Enterprise  64-bit
+10:50:41  [main] 	XAMPP Version: 7.1.7
+10:50:41  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:50:41  [main] 	You are not running with administrator rights! This will work for
+10:50:41  [main] 	most application stuff but whenever you do something with services
+10:50:41  [main] 	there will be a security dialogue or things will break! So think 
+10:50:41  [main] 	about running this application with administrator rights!
+10:50:41  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:50:41  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:50:41  [main] 	Checking for prerequisites
+10:50:41  [main] 	All prerequisites found
+10:50:41  [main] 	Initializing Modules
+10:50:41  [Apache] 	Problem detected!
+10:50:41  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:50:41  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:50:41  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:50:41  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:50:41  [Apache] 	XAMPP Apache Service is already running on port 443
+10:50:41  [main] 	The FileZilla module is disabled
+10:50:41  [main] 	The Mercury module is disabled
+10:50:41  [main] 	The Tomcat module is disabled
+10:50:41  [main] 	Starting Check-Timer
+10:50:41  [main] 	Control Panel Ready
+10:50:50  [mysql] 	Attempting to start MySQL app...
+10:50:50  [mysql] 	Status change detected: running
+18:14:47  [main] 	Deinitializing Modules
+18:14:47  [main] 	Deinitializing Control Panel
+
+16:06:38  [main] 	Initializing Control Panel
+16:06:38  [main] 	Windows Version:  Enterprise  64-bit
+16:06:38  [main] 	XAMPP Version: 7.1.7
+16:06:38  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+16:06:38  [main] 	You are not running with administrator rights! This will work for
+16:06:38  [main] 	most application stuff but whenever you do something with services
+16:06:38  [main] 	there will be a security dialogue or things will break! So think 
+16:06:38  [main] 	about running this application with administrator rights!
+16:06:38  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+16:06:38  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+16:06:38  [main] 	Checking for prerequisites
+16:06:38  [main] 	All prerequisites found
+16:06:38  [main] 	Initializing Modules
+16:06:38  [Apache] 	Problem detected!
+16:06:38  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+16:06:38  [Apache] 	Apache WILL NOT start without the configured ports free!
+16:06:38  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+16:06:38  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+16:06:38  [main] 	The FileZilla module is disabled
+16:06:38  [main] 	The Mercury module is disabled
+16:06:38  [main] 	The Tomcat module is disabled
+16:06:38  [main] 	Starting Check-Timer
+16:06:38  [main] 	Control Panel Ready
+16:06:40  [Apache] 	Problem detected!
+16:06:40  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+16:06:40  [Apache] 	Apache WILL NOT start without the configured ports free!
+16:06:40  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+16:06:40  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+16:06:40  [Apache] 	Attempting to start Apache service...
+16:07:06  [Apache] 	Status change detected: running
+16:27:47  [mysql] 	Attempting to start MySQL app...
+16:27:47  [mysql] 	Status change detected: running
+17:36:00  [main] 	Deinitializing Modules
+17:36:00  [main] 	Deinitializing Control Panel
+
+15:14:16  [main] 	Initializing Control Panel
+15:14:16  [main] 	Windows Version:  Enterprise  64-bit
+15:14:16  [main] 	XAMPP Version: 7.1.7
+15:14:16  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:14:16  [main] 	You are not running with administrator rights! This will work for
+15:14:16  [main] 	most application stuff but whenever you do something with services
+15:14:16  [main] 	there will be a security dialogue or things will break! So think 
+15:14:16  [main] 	about running this application with administrator rights!
+15:14:16  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+15:14:16  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+15:14:16  [main] 	Checking for prerequisites
+15:14:16  [main] 	Initializing Modules
+15:14:16  [main] 	The  module is disabled
+15:14:16  [main] 	The  module is disabled
+15:14:16  [main] 	The  module is disabled
+15:14:16  [main] 	The  module is disabled
+15:14:16  [main] 	The  module is disabled
+15:14:16  [main] 	Starting Check-Timer
+15:14:16  [main] 	Control Panel Ready
+15:14:20  [main] 	Deinitializing Modules
+15:14:20  [main] 	Deinitializing Control Panel
+
+15:14:01  [main] 	Initializing Control Panel
+15:14:01  [main] 	Windows Version:  Enterprise  64-bit
+15:14:01  [main] 	XAMPP Version: 7.1.7
+15:14:01  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:14:01  [main] 	You are not running with administrator rights! This will work for
+15:14:01  [main] 	most application stuff but whenever you do something with services
+15:14:01  [main] 	there will be a security dialogue or things will break! So think 
+15:14:01  [main] 	about running this application with administrator rights!
+15:14:01  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+15:14:01  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+15:14:01  [main] 	Checking for prerequisites
+15:14:01  [main] 	Initializing Modules
+15:14:01  [main] 	The  module is disabled
+15:14:01  [main] 	The  module is disabled
+15:14:01  [main] 	The  module is disabled
+15:14:01  [main] 	The  module is disabled
+15:14:01  [main] 	The  module is disabled
+15:14:01  [main] 	Starting Check-Timer
+15:14:01  [main] 	Control Panel Ready
+15:14:24  [main] 	Deinitializing Modules
+15:14:24  [main] 	Deinitializing Control Panel
+
+15:13:50  [main] 	Initializing Control Panel
+15:13:50  [main] 	Windows Version:  Enterprise  64-bit
+15:13:50  [main] 	XAMPP Version: 7.1.7
+15:13:50  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:13:50  [main] 	You are not running with administrator rights! This will work for
+15:13:50  [main] 	most application stuff but whenever you do something with services
+15:13:50  [main] 	there will be a security dialogue or things will break! So think 
+15:13:50  [main] 	about running this application with administrator rights!
+15:13:50  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+15:13:50  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+15:13:50  [main] 	Checking for prerequisites
+15:13:50  [main] 	Initializing Modules
+15:13:50  [main] 	The  module is disabled
+15:13:50  [main] 	The  module is disabled
+15:13:50  [main] 	The  module is disabled
+15:13:50  [main] 	The  module is disabled
+15:13:50  [main] 	The  module is disabled
+15:13:50  [main] 	Starting Check-Timer
+15:13:50  [main] 	Control Panel Ready
+15:14:28  [main] 	Deinitializing Modules
+15:14:28  [main] 	Deinitializing Control Panel
+
+15:13:41  [main] 	Initializing Control Panel
+15:13:41  [main] 	Windows Version:  Enterprise  64-bit
+15:13:41  [main] 	XAMPP Version: 7.1.7
+15:13:41  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:13:41  [main] 	You are not running with administrator rights! This will work for
+15:13:41  [main] 	most application stuff but whenever you do something with services
+15:13:41  [main] 	there will be a security dialogue or things will break! So think 
+15:13:41  [main] 	about running this application with administrator rights!
+15:13:41  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+15:13:41  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+15:13:41  [main] 	Checking for prerequisites
+15:13:41  [main] 	Initializing Modules
+15:13:41  [main] 	The  module is disabled
+15:13:41  [main] 	The  module is disabled
+15:13:41  [main] 	The  module is disabled
+15:13:41  [main] 	The  module is disabled
+15:13:41  [main] 	The  module is disabled
+15:13:41  [main] 	Starting Check-Timer
+15:13:41  [main] 	Control Panel Ready
+15:14:32  [main] 	Deinitializing Modules
+15:14:32  [main] 	Deinitializing Control Panel
+
+15:17:01  [main] 	Initializing Control Panel
+15:17:01  [main] 	Windows Version:  Enterprise  64-bit
+15:17:01  [main] 	XAMPP Version: 7.1.7
+15:17:01  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:17:01  [main] 	You are not running with administrator rights! This will work for
+15:17:01  [main] 	most application stuff but whenever you do something with services
+15:17:01  [main] 	there will be a security dialogue or things will break! So think 
+15:17:01  [main] 	about running this application with administrator rights!
+15:17:01  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+15:17:01  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+15:17:01  [main] 	Checking for prerequisites
+15:17:01  [main] 	Initializing Modules
+15:17:01  [main] 	The  module is disabled
+15:17:01  [main] 	The  module is disabled
+15:17:01  [main] 	The  module is disabled
+15:17:01  [main] 	The  module is disabled
+15:17:01  [main] 	The  module is disabled
+15:17:01  [main] 	Starting Check-Timer
+15:17:01  [main] 	Control Panel Ready
+15:17:14  [main] 	Deinitializing Modules
+15:17:14  [main] 	Deinitializing Control Panel
+
+15:16:24  [main] 	Initializing Control Panel
+15:16:24  [main] 	Windows Version:  Enterprise  64-bit
+15:16:24  [main] 	XAMPP Version: 7.1.7
+15:16:24  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:16:24  [main] 	You are not running with administrator rights! This will work for
+15:16:24  [main] 	most application stuff but whenever you do something with services
+15:16:24  [main] 	there will be a security dialogue or things will break! So think 
+15:16:24  [main] 	about running this application with administrator rights!
+15:16:24  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+15:16:24  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+15:16:24  [main] 	Checking for prerequisites
+15:16:24  [main] 	Initializing Modules
+15:16:24  [main] 	The  module is disabled
+15:16:24  [main] 	The  module is disabled
+15:16:24  [main] 	The  module is disabled
+15:16:24  [main] 	The  module is disabled
+15:16:24  [main] 	The  module is disabled
+15:16:24  [main] 	Starting Check-Timer
+15:16:24  [main] 	Control Panel Ready
+15:17:14  [main] 	Deinitializing Modules
+15:17:14  [main] 	Deinitializing Control Panel
+
+15:15:22  [main] 	Initializing Control Panel
+15:15:22  [main] 	Windows Version:  Enterprise  64-bit
+15:15:22  [main] 	XAMPP Version: 7.1.7
+15:15:22  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:15:22  [main] 	You are not running with administrator rights! This will work for
+15:15:22  [main] 	most application stuff but whenever you do something with services
+15:15:22  [main] 	there will be a security dialogue or things will break! So think 
+15:15:22  [main] 	about running this application with administrator rights!
+15:15:22  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+15:15:22  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+15:15:22  [main] 	Checking for prerequisites
+15:15:22  [main] 	Initializing Modules
+15:15:22  [main] 	The  module is disabled
+15:15:22  [main] 	The  module is disabled
+15:15:22  [main] 	The  module is disabled
+15:15:22  [main] 	The  module is disabled
+15:15:22  [main] 	The  module is disabled
+15:15:22  [main] 	Starting Check-Timer
+15:15:22  [main] 	Control Panel Ready
+15:17:14  [main] 	Deinitializing Modules
+15:17:14  [main] 	Deinitializing Control Panel
+
+10:27:59  [main] 	Initializing Control Panel
+10:27:59  [main] 	Windows Version:  Enterprise  64-bit
+10:27:59  [main] 	XAMPP Version: 7.1.7
+10:27:59  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:27:59  [main] 	You are not running with administrator rights! This will work for
+10:27:59  [main] 	most application stuff but whenever you do something with services
+10:27:59  [main] 	there will be a security dialogue or things will break! So think 
+10:27:59  [main] 	about running this application with administrator rights!
+10:27:59  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:27:59  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:27:59  [main] 	Checking for prerequisites
+10:27:59  [main] 	All prerequisites found
+10:27:59  [main] 	Initializing Modules
+10:27:59  [Apache] 	Problem detected!
+10:27:59  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:27:59  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:27:59  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:27:59  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:27:59  [Apache] 	XAMPP Apache Service is already running on port 443
+10:27:59  [main] 	The FileZilla module is disabled
+10:27:59  [main] 	The Mercury module is disabled
+10:27:59  [main] 	The Tomcat module is disabled
+10:27:59  [main] 	Starting Check-Timer
+10:27:59  [main] 	Control Panel Ready
+10:28:01  [mysql] 	Attempting to start MySQL app...
+10:28:02  [mysql] 	Status change detected: running
+13:09:38  [Apache] 	Attempting to stop Apache service...
+13:09:42  [Apache] 	Status change detected: stopped
+13:09:44  [mysql] 	Attempting to stop MySQL app...
+13:09:44  [mysql] 	Status change detected: stopped
+13:10:08  [Apache] 	Status change detected: running
+13:15:19  [main] 	Deinitializing Modules
+13:15:19  [main] 	Deinitializing Control Panel
+
+10:23:00  [main] 	Initializing Control Panel
+10:23:00  [main] 	Windows Version:  Enterprise  64-bit
+10:23:00  [main] 	XAMPP Version: 7.1.7
+10:23:00  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:23:00  [main] 	You are not running with administrator rights! This will work for
+10:23:00  [main] 	most application stuff but whenever you do something with services
+10:23:00  [main] 	there will be a security dialogue or things will break! So think 
+10:23:00  [main] 	about running this application with administrator rights!
+10:23:00  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:23:00  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:23:00  [main] 	Checking for prerequisites
+10:23:01  [main] 	All prerequisites found
+10:23:01  [main] 	Initializing Modules
+10:23:01  [Apache] 	Problem detected!
+10:23:01  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:23:01  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:23:01  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:23:01  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:23:01  [Apache] 	XAMPP Apache Service is already running on port 443
+10:23:01  [main] 	The FileZilla module is disabled
+10:23:01  [main] 	The Mercury module is disabled
+10:23:01  [main] 	The Tomcat module is disabled
+10:23:01  [main] 	Starting Check-Timer
+10:23:01  [main] 	Control Panel Ready
+10:23:05  [mysql] 	Attempting to start MySQL app...
+10:23:05  [mysql] 	Status change detected: running
+12:19:47  [main] 	Deinitializing Modules
+12:19:47  [main] 	Deinitializing Control Panel
+
+10:23:04  [main] 	Initializing Control Panel
+10:23:04  [main] 	Windows Version:  Enterprise  64-bit
+10:23:04  [main] 	XAMPP Version: 7.1.7
+10:23:04  [main] 	Control Panel Version: 3.2.2 3.1.0 [ Compiled: Nov 12th 2015 ]
+10:23:04  [main] 	You are not running with administrator rights! This will work for
+10:23:04  [main] 	most application stuff but whenever you do something with services
+10:23:04  [main] 	there will be a security dialogue or things will break! So think 
+10:23:04  [main] 	about running this application with administrator rights!
+10:23:04  [main] 	XAMPP Installation Directory: "c:\program files\orangehrm\4.6\"
+10:23:04  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+10:23:05  [main] 	Checking for prerequisites
+10:23:05  [main] 	All prerequisites found
+10:23:05  [main] 	Initializing Modules
+10:23:05  [Apache] 	Problem detected!
+10:23:05  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:23:05  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:23:05  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:23:05  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:23:05  [Apache] 	XAMPP Apache Service is already running on port 443
+10:23:05  [main] 	The FileZilla module is disabled
+10:23:05  [main] 	The Mercury module is disabled
+10:23:05  [main] 	The Tomcat module is disabled
+10:23:05  [main] 	Starting Check-Timer
+10:23:05  [main] 	Control Panel Ready
+10:24:01  [mysql] 	Status change detected: running
+10:40:39  [mysql] 	Status change detected: stopped
+10:40:39  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:40:39  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:40:39  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:40:39  [mysql] 	Press the Logs button to view error logs and check
+10:40:39  [mysql] 	the Windows Event Viewer for more clues
+10:40:39  [mysql] 	If you need more help, copy and post this
+10:40:39  [mysql] 	entire log window on the forums
+10:56:34  [main] 	Deinitializing Modules
+10:56:34  [main] 	Deinitializing Control Panel
+
